@@ -330,6 +330,9 @@ header .row{
     .div-mascot-api.active{
         padding: 140px 6px 30px 6px !important;
     }
+    .div-mascot-api p{
+        font-size: 9px;
+    }
 }
 /* <!---Mail Mascot--> */
 .mascot-api{
