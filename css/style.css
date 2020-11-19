@@ -304,6 +304,7 @@ header .row{
     margin-top: -30px;
     font-size: 13px;
 }
+
 @media(max-width: 500px){
     .active{
         width: 280px;
@@ -319,6 +320,15 @@ header .row{
     }
     .mascot-title{
         width: 220px;
+    }
+    .prag-algorithm-bg{
+        background-color: #ffec9f;
+        position: relative;
+        z-index: 3;
+        margin-top: -4px;
+    }
+    .div-mascot-api.active{
+        padding: 140px 6px 30px 6px;
     }
 }
 /* <!---Mail Mascot--> */
