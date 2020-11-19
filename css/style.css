@@ -152,11 +152,11 @@ header .row{
 /*<!--Section reason-->*/
 .section1{
     background-color: #fff6bc;
-    background:#fff6bc; /* Old browsers */
-    background: -moz-linear-gradient(top, #fff6bc 0%, #fff7cc 44%, #ffffff 100%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(top,  #fff6bc 0%,#fff7cc 44%,#ffffff 100%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(to bottom,  #fff6bc 0%,#fff7cc 44%,#ffffff 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fff6bc', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
+    /* background:#fff6bc; 
+    background: -moz-linear-gradient(top, #fff6bc 0%, #fff7cc 44%, #ffffff 100%); 
+    background: -webkit-linear-gradient(top,  #fff6bc 0%,#fff7cc 44%,#ffffff 100%); 
+    background: linear-gradient(to bottom,  #fff6bc 0%,#fff7cc 44%,#ffffff 100%); 
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fff6bc', endColorstr='#ffffff',GradientType=0 );  */
 
 }
 
@@ -164,11 +164,11 @@ header .row{
     background-color: #ffffff;
 }
 .section3{
-    background: #fff9e0; /* Old browsers */
-    background: -moz-linear-gradient(top,  #ffffff 0%, #fff7cc 56%, #fff6bc 100%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(top,  #ffffff 0%,#fff7cc 56%#fff6bc 100%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(to bottom,  #ffffff 0%,#fff7cc 56%,#fff6bc 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#fff6bc',GradientType=0 ); /* IE6-9 */
+    background:#fff6bc; 
+    /* background: -moz-linear-gradient(top,  #ffffff 0%, #fff7cc 56%, #fff6bc 100%); 
+    background: -webkit-linear-gradient(top,  #ffffff 0%,#fff7cc 56%#fff6bc 100%); 
+    background: linear-gradient(to bottom,  #ffffff 0%,#fff7cc 56%,#fff6bc 100%); 
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#fff6bc',GradientType=0 );  */
 
 }
 @media (max-width: 767px) {
