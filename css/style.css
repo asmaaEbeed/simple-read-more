@@ -291,9 +291,10 @@ header .row{
     height: 350px;
     padding: 140px 30px 30px 30px;
 }
+
 .mascot-title{
     position: absolute;
-    width: 268px;
+    width: 220px;
     top: 20px;
     left: 77px;
     font-size: 15px;
@@ -302,6 +303,23 @@ header .row{
 .second-row-mascot{
     margin-top: -30px;
     font-size: 13px;
+}
+@media(max-width: 500px){
+    .active{
+        width: 280px;
+        height: 280px;
+    }
+    .second-row-mascot {
+        margin-top: -31px;
+        font-size: 10px;
+    }
+    .first-row-mascot{
+        margin-top: -31px;
+        font-size: 10px;
+    }
+    .mascot-title{
+        width: 220px;
+    }
 }
 /* <!---Mail Mascot--> */
 .mascot-api{
