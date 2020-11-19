@@ -328,7 +328,7 @@ header .row{
         margin-top: -4px;
     }
     .div-mascot-api.active{
-        padding: 140px 6px 30px 6px;
+        padding: 140px 6px 30px 6px !important;
     }
 }
 /* <!---Mail Mascot--> */
